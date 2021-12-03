@@ -4,5 +4,5 @@ Syllabus Textbook Analyzer is an R-based web application hosted on shinyapp.io s
 # Document format
 Syllabus information should be 'txt' format. Textbook should be 'csv' format. In the textbook database, there should be two columns. One is 'title', another is 'description'. User can use information from table of contents as the description instead of full details in the textbook.
 
-#data file in the project
+# Data file in the project
 I upload SYLLABUS.txt and textbook.csv for user to test the app. The textbook information from OpenStax which is free source book website.
